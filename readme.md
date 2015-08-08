@@ -8,4 +8,4 @@ Try your hand at sending a pull request, editing files, and collaborating!
 
 Here is a sample DOM bear.
 
-![git is like time travel](images/git_time.png)
+[SVG File](https://github.com/romyilano/playground/blob/master/images/dom_outline.svg)
